@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ZHHLiveAnimatingView'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = '一个用于展示正在直播状态的动画视图组件。'
 
   s.description      = <<-DESC
